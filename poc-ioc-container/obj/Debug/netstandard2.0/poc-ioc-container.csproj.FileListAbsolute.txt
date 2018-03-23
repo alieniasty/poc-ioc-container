@@ -1,0 +1,9 @@
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\bin\Debug\netstandard2.0\poc-ioc-container.deps.json
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\bin\Debug\netstandard2.0\poc-ioc-container.dll
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\bin\Debug\netstandard2.0\poc-ioc-container.pdb
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.csprojResolveAssemblyReference.cache
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.csproj.CoreCompileInputs.cache
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.AssemblyInfoInputs.cache
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.AssemblyInfo.cs
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.dll
+C:\Users\adjag1\Repos\poc-ioc-container\poc-ioc-container\obj\Debug\netstandard2.0\poc-ioc-container.pdb
